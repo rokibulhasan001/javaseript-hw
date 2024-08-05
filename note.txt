@@ -1,0 +1,19 @@
+selector
+
+function
+particular task
+
+2 type
+1. pre define
+2. user define
+
+Event
+
+output method
+
+variable
+
+Datatype
+
+Operator
+
